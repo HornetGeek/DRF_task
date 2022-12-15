@@ -1,6 +1,6 @@
-# DRF_task
+# DRF_task with django rest framwork
 
-# Create CRUD operations on client and employe and authentication, autherization 
+# Create CRUD operations on client and employe and authentication, autherization with JWT
 
 
 ## How to run it ?
