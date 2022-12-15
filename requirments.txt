@@ -1,0 +1,3 @@
+rest_framework
+drf_yasg
+django_rest_passwordreset
